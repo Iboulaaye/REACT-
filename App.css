@@ -1,0 +1,56 @@
+.hdr{
+  flex-direction: column;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  margin-left: 0vh;
+}
+
+.App{
+  width: 2000px;
+}
+
+.fnav {
+  margin-left: 0vh;
+  font-size: xx-large;
+  font-weight: 900;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#navstyle{
+  font-size: x-large;
+  color: chocolate ;
+  font-weight: 500;
+}
+
+#fr{
+  display: inline-flex;
+  margin-top: 50px;
+}
+.img{
+  margin-right: 150px;
+  width: 500px;
+}
+
+.info{
+  display: inline-flexbox;
+  margin-left: 10px;
+  display: inline-block;
+  margin-bottom: 10px;
+}
+
+.infow{
+  width:500px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#p1{
+  margin-top: 20px;
+  margin-left: 150px;
+  font-size: larger;
+  font-style: normal;
+  font-weight: 200;
+}
+
+.btn{
+  margin-top: 10px;
+}
